@@ -40,7 +40,7 @@ myName = "Boesso";
 console.log(myName);
 const mySecondName = "TheFool";
 console.log(mySecondName);
-//mySecondName = "Ehi Didiridin";
+//mySecondName = "Ehi Didiridin"; l'ho inserito come commento altrimenti il browser me lo dava come errore senza poter riprodurre la parte successiva in quanto la variabile const fissa il valore senza poterlo più sostituire.
 //console.log(mySecondName);
 
 /* ESERCIZIO 6
